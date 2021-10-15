@@ -6,3 +6,4 @@ git status
 git add . 
 git commit -m "Comentário"
 git push original main
+git pull
